@@ -9,6 +9,8 @@
   <body>
     <div class="app-container">
       <h1>To-Do List App</h1>
+
+      <p id="todayDate"></p>
       <p class="subtitle">Organize your daily tasks easily</p>
 
       <div class="input-box">
@@ -16,7 +18,13 @@
         <button id="addTaskBtn">Add Task</button>
       </div>
 
+      <div class="task-info">
+        <p id="taskCounter">Total: 0 | Completed: 0 | Remaining: 0</p>
+      </div>
+
       <ul id="taskList"></ul>
+
+      <button id="deleteAllBtn" class="delete-all-btn">Delete All Tasks</button>
     </div>
 
     <script src="script.js"></script>
