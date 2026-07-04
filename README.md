@@ -47,7 +47,11 @@ Open `index.html` in your browser.
 
 ## 📸 Preview
 
-_Add project screenshots here._
+![Todoapp](photo.png)
+
+## 🌐 Live Demo
+
+https://jad-obeidd.github.io/synent-task5-todoapp-jadobeid/
 
 ## 📌 Future Improvements
 
