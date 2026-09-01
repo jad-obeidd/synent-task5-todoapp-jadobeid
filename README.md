@@ -1,80 +1,64 @@
-# ✅ Smart Task Manager
+# Smart Task Manager
 
-A modern and responsive task management web application developed as part of the Synent Technologies Web Development Internship.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-16a34a?style=for-the-badge)](https://jad-obeidd.github.io/synent-task5-todoapp-jadobeid/)
 
-## ✨ Features
+A responsive task-management web application built during my Synent Technologies Web Development Internship. It helps users organize daily tasks and stores their data locally in the browser.
 
-- Add new tasks
-- Edit existing tasks
-- Delete individual tasks
-- Delete all tasks
-- Mark tasks as completed
+![Smart Task Manager preview](photo.png)
+
+## Features
+
+- Add, edit, complete, and delete tasks
 - Search tasks instantly
-- Filter tasks (All / Active / Completed)
-- Task priority (Low, Medium, High)
-- Progress bar
-- Task statistics
-- Dark / Light mode
-- Responsive design
-- Data persistence using Local Storage
+- Filter by all, active, or completed
+- Assign low, medium, or high priority
+- Track completion with progress and statistics
+- Delete all tasks
+- Dark and light themes
+- Persistent data using Local Storage
+- Responsive mobile and desktop interface
 
-## 🛠 Technologies Used
+## Built With
 
 - HTML5
 - CSS3
-- JavaScript
-- Local Storage API
+- Vanilla JavaScript
+- Web Storage API
 
-## 📂 Project Structure
+## Run Locally
 
+```bash
+git clone https://github.com/jad-obeidd/synent-task5-todoapp-jadobeid.git
+cd synent-task5-todoapp-jadobeid
 ```
-task5-todoapp/
-│
+
+Open `index.html` in your browser. No installation or build step is required.
+
+## Project Structure
+
+```text
+.
 ├── index.html
 ├── style.css
 └── script.js
 ```
 
-## 🚀 Getting Started
+## Live Demo
 
-Clone the repository
+[jad-obeidd.github.io/synent-task5-todoapp-jadobeid](https://jad-obeidd.github.io/synent-task5-todoapp-jadobeid/)
 
-```bash
-git clone https://github.com/jad-obeidd/synent-task5-todoapp-jadobeid.git
-```
+## Possible Improvements
 
-Open `index.html` in your browser.
-
-## 📸 Preview
-
-![Todoapp](photo.png)
-
-## 🌐 Live Demo
-
-https://jad-obeidd.github.io/synent-task5-todoapp-jadobeid/
-
-## 📌 Future Improvements
-
-- Due dates
-- Categories
-- Notifications
+- Due dates and reminders
+- Task categories
+- Drag-and-drop ordering
 - Cloud synchronization
-- Drag & Drop task sorting
 
-## 👨‍💻 Author
+## Author
 
-**Jad Obeid**
+**Jad Obeid**  
+[GitHub](https://github.com/jad-obeidd) · [LinkedIn](https://www.linkedin.com/in/jad-obeid-748a642a0/)
 
-GitHub:
-https://github.com/jad-obeidd
+## Note
 
-LinkedIn:
-https://linkedin.com/in/jad-obeid-748a642a0
-
-## 📄 License
-
-This project was created for educational and internship purposes.
-
-## 🌐 Live Demo
-
-https://jad-obeidd.github.io/synent-task5-todoapp-jadobeid/
+Created for educational and internship purposes.
